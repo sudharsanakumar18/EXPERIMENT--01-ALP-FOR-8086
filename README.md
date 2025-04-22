@@ -1,4 +1,4 @@
-# EXPERIMENT--01-ALP-FOR-8086
+# EXPERIMENT 01 ALP FOR 8086
 ### Name : Sudharsana kumar S R
 ### Roll no : 212223240162 
 ### Date of experiment : 4-03-2025
